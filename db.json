@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "A new thing",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "A new thing",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "A new thing",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "New thing",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Baby food",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "More baby food",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
     }
   ]
 }
